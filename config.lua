@@ -72,19 +72,19 @@ Config.Locations = {
         }
     },
     ["freedom"] = {
-        coords = vector4(1775.61, 2553.73, 45.57, 96.06)
+        coords = vector4(1775.61, 2553.73, 45.564, 96.06)
     },
     ["outside"] = {
-        coords = vector4(1848.13, 2586.05, 44.67, 269.5)
+        coords = vector4(1848.13, 2586.05, 45.564, 269.5)
     },
     ["yard"] = {
-        coords = vector4(1765.67, 2565.91, 44.56, 1.5)
+        coords = vector4(1765.67, 2565.91, 45.564, 1.5)
     },
     ["middle"] = {
-        coords = vector4(1680.07, 2512.7, 45.56, 251.37)
+        coords = vector4(1680.07, 2512.7, 45.564, 251.37)
     },
     ["shop"] = {
-        coords = vector4(1785.17, 2558.73, 45.67, 178.67)
+        coords = vector4(1785.17, 2558.73, 45.564, 178.67)
     },
     spawns = {
         [1] = {
